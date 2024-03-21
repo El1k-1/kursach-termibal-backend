@@ -1,0 +1,19 @@
+{
+  "name": "websocket-server-node",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Nikita Ignatov",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "ws": "^8.16.0"
+  },
+  "optionalDependencies": {
+    "utf-8-validate": "^6.0.3"
+  }
+}
